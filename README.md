@@ -1,7 +1,7 @@
 # ds_online_43
 Repositorio de prueba para el grupo DS-ONLINE-43
 
-Simularemos un trabajo colaborativo donde deberán algún punto del script:  
+Simularemos un trabajo colaborativo donde deberán completar algún punto del script.  
 
 + hacer un Fork a éste repositorio
 + Clonarlo para poder trabajar localmente
