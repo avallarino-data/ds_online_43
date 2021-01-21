@@ -1,7 +1,6 @@
 # ds_online_43
 Repositorio de prueba para el grupo DS-ONLINE-43
 
-<<<<<<< HEAD
 Simularemos un trabajo colaborativo donde deberán completar algún punto del script.  
 
 + hacer un Fork a éste repositorio
