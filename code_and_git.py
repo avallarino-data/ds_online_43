@@ -1,5 +1,6 @@
 # # Ejercicio _colabirativo_
 
+#cambios introducidos 25/01
 import numpy as np
 
 
